@@ -1,6 +1,4 @@
 # 3D_AI_Web_Designer
-<img width="1431" alt="Screenshot 2023-09-12 at 4 53 03 PM" src="https://github.com/Marlvin12/3D_AI_Web_Designer/assets/122947486/3292a889-2436-4d47-a652-33c3d084acb2">
-
 
 https://github.com/Marlvin12/3D_AI_Web_Designer/assets/122947486/29ffc52c-6d7f-4cc0-89cc-3508709f651b
 
