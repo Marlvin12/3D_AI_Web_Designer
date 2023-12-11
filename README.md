@@ -4,9 +4,8 @@ https://github.com/Marlvin12/3D_AI_Web_Designer/assets/122947486/29ffc52c-6d7f-4
 
 
 
-3D AI Web Designer combines AI and 3D technology, offering real-time 3D previews, AI design assistance, and live editing features, streamlining web design for all skill levels.
+3D AI Web-Based T-Shirt Designer.
 
----
 ## Features
 
 - 3D Visualization of Website Designs
