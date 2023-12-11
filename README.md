@@ -4,10 +4,7 @@ https://github.com/Marlvin12/3D_AI_Web_Designer/assets/122947486/29ffc52c-6d7f-4
 
 
 
-
-
-3D AI Web Designer fuses Artificial Intelligence with 3D tech to redefine web design. Suited for all skill levels, it features real-time 3D previews and AI-powered design tips. The platform allows live 3D edits, slashing design time and costs while enhancing quality. Perfect for novices and experts alike.
-Certainly! A README file serves as the first point of introduction for any project. It gives an overview of what the project is about, how to set it up, and any other necessary details. Below is a sample README file for your 3D AI Web Designer project:
+3D AI Web Designer combines AI and 3D technology, offering real-time 3D previews, AI design assistance, and live editing features, streamlining web design for all skill levels.
 
 ---
 ## Features
